@@ -2,7 +2,7 @@
 
 **AI. Brainstorming. Thinking.**
 
-[Visit my website](https://wlacu.com)
+[Wlacu.com](https://wlacu.com)
 
 ---
 
