@@ -30,3 +30,6 @@ Currently building **chat.fans** – AI characters, notes & journaling that run 
 
 > I build tools that think *with* you, not *for* you.  
 > ❤️ Sponsor support keeps them open & free.
+
+> Sponsorship keeps my open-source work alive — **it’s not an employment contract**.  
+> For consulting or full-time offers, please contact me via [wlacu.com](https://wlacu.com) or [LinkedIn](https://www.linkedin.com/in/dein-handle).
