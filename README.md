@@ -13,14 +13,11 @@ Currently building **chat.fans** – AI characters, notes & journaling that run 
 
 ### 🛠️ Projects
 
-- **chat.fans** – AI characters & second-brain notes  
-  <sub>React · Node · Ollama</sub>
+- **chat.fans** – Write intelligent Notes and chat with your helpers to augment planning and even self-reflection.
 
-- **AutoProbe-MCP** – click-&-play testing harness for AI agents  
-  <sub>Electron · Python</sub>
+- **AutoProbe-MCP** – Minimizing halucination by letting your AI Agent test what it built.
 
-- **mini_autogpt** – tiny Telegram-connected AutoGPT PoC  
-  <sub>Python</sub>
+- **mini_autogpt** – tiny AutoGPT PoC which started as a reference for my Book [Unlocking the Power of Auto-GPT and Its Plugins](https://a.co/d/blNi4JO), but then turned into it's own project.
   
 ---
 
